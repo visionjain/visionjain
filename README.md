@@ -15,6 +15,6 @@
   
   
 <div align="center">
-<img src="https://pbs.twimg.com/media/FotHaDuaQAAVlmj?format=jpg&name=4096x4096" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=visionjain" align="center" style="width: 100%" />
 </div> 
 <br/> 
