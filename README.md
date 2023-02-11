@@ -15,6 +15,6 @@
   
   
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=visionjain" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=visionjain&show_icons=true&theme=dark" align="center" style="width: 100%" />
 </div> 
 <br/> 
