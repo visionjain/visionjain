@@ -15,6 +15,6 @@
   
   
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://pbs.twimg.com/media/FotHaDuaQAAVlmj?format=jpg&name=4096x4096)" align="center" style="width: 100%" />
+<img src="https://pbs.twimg.com/media/FotHaDuaQAAVlmj?format=jpg&name=4096x4096" align="center" style="width: 100%" />
 </div> 
 <br/> 
