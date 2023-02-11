@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**visionjain/visionjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Vision Jain, A FullStack Developer 👨‍💻</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a CS-DS grad at SRM institute of Science and Technology, KTR.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new languages.
+  
+
+- ❓ Ask me about anything related to technology.
+  
+
+- ⚡ Fun fact: I use tabs over spaces.
+  
+  
+<div align="center">
+![image](https://user-images.githubusercontent.com/71940170/218273914-617f921c-ee56-4c0b-a91b-c8f87a48b43c.png)
+</div>
+<br/> 
