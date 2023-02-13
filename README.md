@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to technology.
   
 
-- ⚡ Fun fact: I use tabs over spaces.
+- ⚡ Fun fact: I use tabs over spaces ✅.
   
   
 <div align="center">
