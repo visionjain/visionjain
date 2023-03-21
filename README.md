@@ -15,6 +15,8 @@
   
   
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=visionjain&show_icons=true&theme=dark" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=visionjain&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionjain&hide_border=true&layout=compact" align="right" /></div>
 </div> 
 <br/> 
